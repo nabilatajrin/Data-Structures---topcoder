@@ -6,8 +6,6 @@ class ListNode {
 }
 ListNode firstNode;
 .
-.
-.
 You could then write a method to add new nodes by inserting them at the beginning of the list:
 .
 ListNode newNode = new ListNode();
